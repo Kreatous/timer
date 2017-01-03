@@ -1,0 +1,1 @@
+this is a simple timer program with 120 seconds delay i.e 2 minutes
